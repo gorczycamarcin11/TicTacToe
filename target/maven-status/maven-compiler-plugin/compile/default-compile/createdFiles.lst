@@ -1,0 +1,6 @@
+view/TicTacToe.class
+model/ShapeType.class
+view/TicTacToeController.class
+model/Game.class
+model/Simulation.class
+model/Player.class
